@@ -60,8 +60,8 @@ def write_config(config):
 # SCRIPT MADE BY @venomXcrazy ON TELEGRAM THIS IS A PAID SCRIPT MOST POWERFULL A DDOS TELEGRAM BOT SCRIPT
 
 config = load_config()
-bot = telebot.TeleBot(config['7510589975:AAEg1m9a59UWNP4LBHUxQnHnvWVaPfMZfyY'])
-ADMIN_IDS = set(config['6508557076'])
+bot = telebot.TeleBot(config['7420281541:AAFcKPth2FVC7jhL4Wo8P5L1PcgvmtjwYjY'])
+ADMIN_IDS = set(config['5448029060'])
 USER_FILE = config['user_file']
 LOG_FILE = config['log_file']
 COOLDOWN_TIME = config['cooldown_time']
